@@ -165,3 +165,191 @@ body {
   color: rgb(0, 118,0);
   font-weight: bold;
 }
+
+.subscribe-button {
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-right: 8px;
+  margin-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  transition: opacity 0.15s;
+  vertical-align: top;
+}
+
+.subscribe-button:hover {
+  opacity: 0.8;
+}
+
+.subscribe-button:active {
+  opacity: 0.5;
+}
+
+.join-button {
+  background-color: white;
+  border-style: solid;
+  border-width: 1px;
+  color: blue;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-left: 8px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 16px;
+  padding-right: 16px;
+
+  transition: background-color 0.15s,
+      color 0.15s;
+}
+
+.join-button:hover {
+  background-color: rgb(6, 95, 212);
+  color: white;
+}
+
+.tweet-button {
+  background-color: rgb(6, 95, 212);
+  color: white;
+  border: none;
+  border-radius: 50px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  margin-left: 8px; 
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 16px;
+  padding-right: 16px;
+  transition: box-shadow 0.15s;
+  vertical-align: top;
+}
+
+.tweet-button:hover {
+  background-color: rgb(211, 18, 131);
+  color: white;
+}
+.back-button {
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.page-button {
+  color: blueviolet;
+  margin-left: 8px;
+}
+
+.next-button {
+  margin-left: 12px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.stretch-button {
+  background-color: green;
+  color: white;
+  font-weight: bold;
+  font-stretch: expanded;
+  margin-left: 20px;
+  cursor: pointer;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.stretch-button:hover {
+  background-color: green;
+  color: white;
+}
+.stretch-button:active {
+  opacity: 0.5s;
+}
+
+
+.shadow-button {
+  background-color: green;
+  color: white;
+  font-weight: bold;
+  font-stretch: expanded;
+  margin-right: 100px;
+  cursor: pointer;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 9px;
+  padding-right: 9px;
+}
+.shadow-button:hover {
+  background-color: green;
+  color: white;
+}
+.shadow-button:active {
+  opacity: 0.5s;
+}
+
+.one-button {
+  background-color: green;
+  color: white;
+  font-weight: bold;
+  font-stretch: expanded;
+  margin-left: 6px;
+  cursor: pointer;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 9px;
+  padding-right: 9px;
+}
+.one-button:hover {
+  background-color: green;
+  color: white;
+}
+.one-button:active {
+  opacity: 0.5s;
+}
+
+.two-button {
+  background-color: green;
+  color: white;
+  font-weight: bold;
+  font-stretch: expanded;
+  margin-left: 6px;
+  cursor: pointer;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 17px;
+  padding-right: 17px;
+}
+.two-button:hover {
+  background-color: green;
+  color: white;
+}
+.two-button:active {
+  opacity: 0.5s;
+}
+
+.three-button {
+  background-color: green;
+  color: white;
+  font-weight: bold;
+  font-stretch: expanded;
+  margin-left: 6px;
+  cursor: pointer;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 18px;
+  padding-right: 18px;
+}
+.three-button:hover {
+  background-color: green;
+  color: white;
+}
+.three-button:active {
+  opacity: 0.5s;
+}
